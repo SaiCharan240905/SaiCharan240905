@@ -1,83 +1,96 @@
-<h1 align="center">Hi 👋, I'm Sai Charan</h1>
-<h3 align="center">Aspiring AI/ML Engineer | Full-Stack Developer | Research Enthusiast</h3>
+<h1 align="center">Hi 👋, I'm Madki Sai Charan</h1>
+
+<h3 align="center">AI/ML Enthusiast | Frontend Developer | Research-Oriented Engineer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=AI+Engineer+in+the+Making;Machine+Learning+%7C+Deep+Learning+%7C+NLP;React+%7C+Flask+%7C+Python+Developer;Building+Smart+Systems+for+Real+World+Impact" />
+  <img src="https://readme-typing-svg.herokuapp.com?lines=AI+%26+ML+Engineer;Frontend+Developer;Building+Intelligent+Systems;Research+Driven+Developer&center=true&width=500&height=50">
 </p>
 
 ---
 
-## 🧠 About Me
-
-- 🎓 B.Tech student passionate about **AI, Machine Learning, and Intelligent Systems**
-- 🧩 I build **real-world AI applications + full-stack web projects**
-- 🔬 Interested in **research-driven AI solutions and applied ML**
-- 🚀 Currently exploring **GenAI, LLMs, and scalable AI systems**
-- 💼 Goal: To become a **high-impact AI Engineer**
+## 🚀 About Me
+- 🎓 B.Tech CSE (AI & ML) Student  
+- 🤖 Passionate about AI, Machine Learning & Intelligent Systems  
+- 💻 Frontend Developer using React.js  
+- 📊 Interested in Data Science & Predictive Analytics  
+- 🧠 Research-focused engineering mindset  
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠 Tech Stack
 
-<p align="center">
-
+### 💻 Programming
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 🤖 AI / ML
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-blue?style=for-the-badge)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+### 🌐 Web Development
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-
-</p>
-
----
-
-## 🚀 Featured Projects
-
-### 🧠 AI Admission Prediction System
-- Hybrid ML + Rule-based system for college branch prediction  
-- Built using Python, Flask, and ML models  
-- Focus on **transparent decision-making AI**
-
-### 🌐 Portfolio Website
-- Personal developer portfolio showcasing projects & skills  
-- Built using React + modern UI components  
-- Deployed for performance and responsiveness
-
-🔗 Explore More:  
-👉 :contentReference[oaicite:0]{index=0}
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SaiCharan240905&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SaiCharan240905&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" />
 </p>
-
----
-
-## 🌐 Connect With Me
 
 <p align="center">
-
-📧 Email:   
-💼 LinkedIn: :contentReference[oaicite:2]{index=2}  
-💻 GitHub: :contentReference[oaicite:3]{index=3}  
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" />
 </p>
-
----
-
-## ⚡ Fun Section
 
 <p align="center">
-  <img src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" width="300"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" />
 </p>
-
-> “Turning ideas into intelligent systems, one project at a time.”
 
 ---
 
-⭐ If you like my work, consider giving my repositories a star!
+## 🚀 Featured Projects
+
+### 🔹 PraveshPath – AI Admission Prediction System
+AI-powered system for predicting engineering branch eligibility using ML + rule-based logic.
+
+### 🔹 CareerSense AI
+Machine learning-based career recommendation engine using predictive analytics.
+
+### 🔹 IntelliAttend
+Multi-agent AI automation system for attendance and workflow management.
+
+### 🔹 Portfolio Website
+Modern React-based portfolio deployed on Vercel.
+
+---
+
+## 📈 Current Focus
+- Advanced Machine Learning
+- Generative AI & Prompt Engineering
+- Full Stack Development (React + Flask)
+- Research-based AI systems
+
+---
+
+## 📫 Connect With Me
+
+<p align="left">
+<a href="https://linkedin.com" target="blank">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+</a>
+
+<a href="mailto:yourmail@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</p>
+
+---
+
+## ⚡ Fun Fact
+> I enjoy building AI systems that solve real-world problems and turning ideas into intelligent applications 🚀
