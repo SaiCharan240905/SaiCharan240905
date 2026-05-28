@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://madkisaicharan-portfolio.vercel.app">
-    <img src="https://img.shields.io/badge/🚀%20Explore%20My%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/🚀%20Explore%20My%20Portfolio-00B4DB?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
 
