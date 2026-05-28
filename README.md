@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Madki Sai Charan</h1>
+<h1 align="center">Hi 👋 (Namaste 🙏), I'm Madki Sai Charan</h1>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=AI+%26+ML+Enthusiast;Frontend+Developer;Data+Analytics+Explorer;Research+Contributor;Building+Intelligent+Systems;Turning+Ideas+Into+Real-World+AI+Solutions&center=true&width=600&height=50">
