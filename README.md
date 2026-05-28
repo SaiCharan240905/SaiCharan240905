@@ -1,31 +1,33 @@
 <h1 align="center">Hi 👋, I'm Madki Sai Charan</h1>
 
-<h3 align="center">AI/ML Enthusiast | Frontend Developer | Research-Oriented Engineer</h3>
+<h3 align="center">AI/ML Engineer in the Making | Full-Stack Developer | Research-Oriented Problem Solver</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=AI+%26+ML+Engineer;Frontend+Developer;Building+Intelligent+Systems;Research+Driven+Developer&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=AI+%26+ML+Engineer;Frontend+Developer+React+%7C+Flask;Building+Intelligent+Systems;Research+Driven+Developer;Turning+Ideas+Into+Real-World+AI+Products&center=true&width=600&height=50">
 </p>
 
 ---
 
-## 🚀 About Me
-- 🎓 B.Tech CSE (AI & ML) Student  
-- 🤖 Passionate about AI, Machine Learning & Intelligent Systems  
-- 💻 Frontend Developer using React.js  
-- 📊 Interested in Data Science & Predictive Analytics  
-- 🧠 Research-focused engineering mindset  
+## 🧠 About Me
+
+- 🎓 B.Tech CSE (AI & ML) Student passionate about intelligent systems  
+- 🤖 Strong interest in **Machine Learning, Deep Learning & Generative AI**  
+- 💻 Full-stack developer using **React.js + Flask + Python**  
+- 📊 Focused on **predictive analytics & real-world AI applications**  
+- 🔬 Research-oriented mindset with interest in applied AI systems  
+- 🚀 Goal: Build scalable AI systems that solve real human problems  
 
 ---
 
 ## 🛠 Tech Stack
 
-### 💻 Programming
+### 💻 Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### 🤖 AI / ML
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-blue?style=for-the-badge)
+### 🤖 AI / Machine Learning
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge)
 ![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
@@ -38,59 +40,77 @@
 
 ---
 
-## 📊 GitHub Stats
+## 🚀 Featured Projects
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" />
-</p>
+### 🧠 PraveshPath – AI Admission Prediction System
+An intelligent hybrid system combining **machine learning + rule-based logic** to predict engineering branch eligibility based on student profiles.
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" />
-</p>
+### 🎯 CareerSense AI
+A predictive analytics system that recommends suitable career paths using machine learning models and data-driven insights.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" />
-</p>
+### ⚙️ IntelliAttend
+Multi-agent AI automation system designed for attendance tracking and workflow optimization using intelligent automation concepts.
+
+### 🌐 Portfolio Website
+Modern, responsive developer portfolio built using **React.js**, showcasing projects, skills, and achievements.
+
+🔗 Live Portfolio:  
+👉 :contentReference[oaicite:0]{index=0}
 
 ---
 
-## 🚀 Featured Projects
+## 📊 GitHub Analytics
 
-### 🔹 PraveshPath – AI Admission Prediction System
-AI-powered system for predicting engineering branch eligibility using ML + rule-based logic.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SaiCharan240905&show_icons=true&theme=radical" />
+</p>
 
-### 🔹 CareerSense AI
-Machine learning-based career recommendation engine using predictive analytics.
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SaiCharan240905&theme=radical" />
+</p>
 
-### 🔹 IntelliAttend
-Multi-agent AI automation system for attendance and workflow management.
-
-### 🔹 Portfolio Website
-Modern React-based portfolio deployed on Vercel.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaiCharan240905&layout=compact&theme=radical" />
+</p>
 
 ---
 
 ## 📈 Current Focus
-- Advanced Machine Learning
-- Generative AI & Prompt Engineering
-- Full Stack Development (React + Flask)
-- Research-based AI systems
+
+- 🚀 Generative AI & Large Language Models (LLMs)  
+- 🧠 Advanced Machine Learning & Deep Learning  
+- 🌐 Full Stack AI Applications (React + Flask + AI APIs)  
+- 🔬 Research-based intelligent systems  
+- ⚙️ Scalable AI product development  
 
 ---
 
-## 📫 Connect With Me
+## 🌐 Connect With Me
 
-<p align="left">
-<a href="https://linkedin.com" target="blank">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+<p align="center">
+
+<a href="https://www.linkedin.com/in/madki-sai-charan/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:yourmail@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="mailto:saicharanaiml.edam@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
+<a href="https://github.com/SaiCharan240905">
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
 </p>
 
 ---
 
 ## ⚡ Fun Fact
-> I enjoy building AI systems that solve real-world problems and turning ideas into intelligent applications 🚀
+
+> “I don’t just build projects — I build systems that think, learn, and improve.”
+
+---
+
+<p align="center">
+  🚀 Thanks for visiting my profile! Let's build something intelligent together.
+</p>
