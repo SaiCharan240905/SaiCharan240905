@@ -6,8 +6,8 @@
 
 
 <p align="center">
-  <a href="[](https://madkisaicharan-portfolio.vercel.app/)">
-    <img src="https://img.shields.io/badge/🚀%20Explore%20My%20Portfolio-FF6F00?style=for-the-badge&logo=vercel&logoColor=white" />
+  <a href="https://madkisaicharan-portfolio.vercel.app">
+    <img src="https://img.shields.io/badge/🚀%20Explore%20My%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
 
