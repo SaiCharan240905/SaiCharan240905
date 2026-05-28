@@ -1,15 +1,14 @@
 <h1 align="center">Hi 👋, I'm Madki Sai Charan</h1>
 
-<h3 align="center">AI & ML Enthusiast | Frontend Developer | Data Analytics Explorer | Research Contributor</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=AI+%26+ML+Enthusiast;Frontend+Developer;Data+Analytics+Explorer;Research+Contributor;Building+Intelligent+Systems;Turning+Ideas+Into+Real-World+AI+Solutions&center=true&width=600&height=50">
+</p>
+
 
 <p align="center">
   <a href="[](https://madkisaicharan-portfolio.vercel.app/)">
     <img src="https://img.shields.io/badge/🚀%20Explore%20My%20Portfolio-FF6F00?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=AI+%26+ML+Enthusiast;Frontend+Developer;Data+Analytics+Explorer;Research+Contributor;Building+Intelligent+Systems;Turning+Ideas+Into+Real-World+AI+Solutions&center=true&width=600&height=50">
 </p>
 
 ---
@@ -45,57 +44,26 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ---
-
 ## 🚀 Featured Projects
 
-<p align="center">
-
 ### 🧠 PraveshPath – AI Admission Prediction System
-<p align="center">
-Hybrid AI system combining Machine Learning + Rule-based logic to predict engineering branch eligibility based on student profiles.<br>
-<b>Tech:</b> Python, Flask, Machine Learning
-</p>
-
----
+An intelligent hybrid system combining machine learning + rule-based logic to predict engineering branch eligibility based on student profiles.
 
 ### 🎯 CareerSense AI
-<p align="center">
-Intelligent career recommendation system using predictive analytics and data-driven insights to suggest suitable career paths.<br>
-<b>Tech:</b> Python, Machine Learning, Data Analytics
-</p>
-
----
+A predictive analytics system that recommends suitable career paths using machine learning models and data-driven insights.
 
 ### ⚙️ IntelliAttend
-<p align="center">
-Multi-agent AI automation system for attendance tracking and workflow optimization using intelligent system design principles.<br>
-<b>Tech:</b> Python, Automation, AI Concepts
-</p>
-
----
+Multi-agent AI automation system designed for attendance tracking and workflow optimization using intelligent automation concepts.
 
 ### 🌐 Portfolio Website
-<p align="center">
-Modern responsive developer portfolio showcasing projects, skills, and achievements with clean UI and performance optimization.<br>
-<b>Tech:</b> React.js, JavaScript, UI/UX
-</p>
-
-</p>
+Modern, responsive developer portfolio built using React.js, showcasing projects, skills, and achievements.
 
 ---
 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SaiCharan240905&show_icons=true&theme=radical" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SaiCharan240905&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaiCharan240905&layout=compact&theme=radical" />
 </p>
 
 ---
