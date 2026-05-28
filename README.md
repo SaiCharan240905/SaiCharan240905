@@ -18,7 +18,6 @@
 
 - 🎓 B.Tech CSE (AI & ML) Student passionate about intelligent systems  
 - 🤖 Strong interest in **Machine Learning, Deep Learning & Generative AI**  
-- 💻 Full-stack developer using **React.js + Flask + Python**  
 - 📊 Focused on **predictive analytics & real-world AI applications**  
 - 🔬 Research-oriented mindset with interest in applied AI systems  
 - 🚀 Goal: Build scalable AI systems that solve real human problems  
